@@ -1,1 +1,9 @@
 /* your code */
+thead{
+	background-color:blue;
+	color:white;
+	
+}
+tbody tr:nth-child(even){
+     background-color:lightgray;
+}
